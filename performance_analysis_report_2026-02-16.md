@@ -369,4 +369,3 @@ The `_compute_name` method calls `next_by_id()` on sequences, which is a databas
 
 ---
 
-*Report generated from flame graph profile captured on 2026-02-16 from Odoo.sh production instance.*
